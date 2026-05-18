@@ -1,0 +1,8 @@
+Timeout (0:00:08)!
+Thread 0x00009f84 (most recent call first):
+  File "C:\Python312\Lib\platform.py", line 327 in _wmi_query
+  File "C:\Python312\Lib\platform.py", line 387 in _win32_ver
+  File "C:\Python312\Lib\platform.py", line 449 in win32_ver
+  File "C:\Python312\Lib\platform.py", line 921 in uname
+  File "C:\Python312\Lib\platform.py", line 986 in system
+  File "<string>", line 1 in <module>
